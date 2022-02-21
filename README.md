@@ -66,7 +66,7 @@ Please refer [`LICENSE`](https://github.com/Pseudo-Pythonic/Nayan/blob/main/LICE
 
 <table>
   <tbody><tr>
-    <td align="center"><a href="https://github.com/Pseudo-Pythonic"><img alt="" src="https://avatars.githubusercontent.com/u/73730318?v=4" width="130px;"><br><sub><b> Hardik Jaiswal </b></sub></a><br><a href="https://github.com/Pseudo-Pythonic" title="Code"> </a></td> </a></td>
+    <td align="center"><a href="https://github.com/radialia"><img alt="" src="https://avatars.githubusercontent.com/u/73730318?v=4" width="130px;"><br><sub><b> Hardik Jaiswal </b></sub></a><br><a href="https://github.com/radialia" title="Code"> </a></td> </a></td>
     </tr>
  </tbody>
  </table>
